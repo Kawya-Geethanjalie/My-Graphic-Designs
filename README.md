@@ -1,4 +1,4 @@
-# 🎨 My Graphic Design Portfolio - SKG MY Creationz
+# 🎨 My Graphic Design Portfolio - SKG Graphics
 
 Welcome to my creative space! I am a **Graphic Designer** passionate about creating high-impact visuals using **Adobe Photoshop** and **Canva**.
 
@@ -39,5 +39,5 @@ I am always open to new creative projects and opportunities.
 
 ---
 <p align="center">
-  <i>"Transforming ideas into visual reality." - SK</i>
+  <i>"Transforming ideas into visual reality." - SKG Graphics</i>
 </p>
